@@ -1,4 +1,4 @@
-# Capstone_Project
+# Capstone_Project - Sales Data
 
 ![image](https://github.com/user-attachments/assets/6d001534-3da8-4f61-b3ef-4219e77b24a2)
 TOTAL SALES BY PRODUCT	
@@ -225,4 +225,11 @@ ORDER BY [Total Sales] DESC;
 
 
 select * from dbo.Sales_Data
+
+## FURTHER ANALYSIS OF THE SALES DATA USING POWERBI
+
+
+
+
+
 
